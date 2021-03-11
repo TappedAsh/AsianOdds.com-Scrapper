@@ -23,7 +23,6 @@ args = vars(ap.parse_args())
 filename = args["filename"]
 user = args["username"]
 passwd = args["password"]
-input_date = args["date"]
 link = "https://asianodds.com"
 
 excelexporter.create_workbook(filename)

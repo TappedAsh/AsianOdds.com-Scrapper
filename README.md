@@ -1,4 +1,4 @@
-This is a small scrapping script i built based on selenium to extract pastgames soccer data from asianodds.com using login and puts them into an excel output file using chrome driver
+This is a small scrapping script i built based on selenium to extract pastgames odds soccer data from asianodds.com using login and puts them into an excel output file using chrome driver
 
 Requirements installation : 
 
